@@ -1,3 +1,1 @@
-# siedlisko
-
-http://ro9uemancer.github.io/siedlisko/
+# http://ro9uemancer.github.io/siedlisko/
